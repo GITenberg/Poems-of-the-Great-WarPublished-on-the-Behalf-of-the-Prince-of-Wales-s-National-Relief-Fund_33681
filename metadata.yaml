@@ -1,0 +1,37 @@
+_repo: Poems-of-the-Great-WarPublished-on-the-Behalf-of-the-Prince-of-Wales-s-National-Relief-Fund_33681
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 33681-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2010-09-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33681'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Poetry'
+- !lcc 'PR'
+tableOfContents: '"Wake up, England" / Robert Bridges -- The vigil / Henry Newbolt
+  -- The the troubler of the world / William Watson -- The England: to strike quickly
+  / Maurice Hewlett -- The fourth of August / Laurence Binyon -- The united front
+  / Alfred Noyes -- England to the sea / R.E. Vernède -- The hour / J.B. Fagan --
+  The wife of Flanders / G.K. Chesterton -- The stars in their courses / John Freeman
+  -- Commandeered / L.G. Moberly -- The man who keeps his head / Harold Begbie --
+  France / Cecil Chesterton -- We willed it not / John Drinkwater -- Pro patria /
+  Owen Seaman -- Hymn before action / Rudyard Kipling -- Hymn in war time / Robert
+  Bridges.'
+title: 'Poems of the Great War
+
+  Published on the Behalf of the Prince of Wales''s National Relief Fund'
+url: http://www.gutenberg.org/ebooks/33681
